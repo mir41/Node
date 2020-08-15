@@ -1,14 +1,14 @@
 {
     "representative": {
         "logo": {
-            "logo_256": "",
-            "logo_1024": "",
-            "logo_svg": ""
+            "logo_256": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/Transcranial_Solutions_R.png",
+            "logo_1024": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/Transcranial_Solutions_R.png",
+            "logo_svg": "https://raw.githubusercontent.com/Transcranial-Solutions/Node/master/Transcranial_Solutions_R.png"
         },
         "media": {
             "steemit": "",
             "twitter": "https://twitter.com/TranscranialSol/",
-            "youtube": "",
+            "youtube": "https://www.youtube.com/channel/UCeOv5tg_S168TX-Eqqse_iw",
             "facebook": "",
             "github": "https://github.com/Transcranial-Solutions",
             "reddit": "",
