@@ -1,0 +1,28 @@
+{
+    "representative": {
+        "logo": {
+            "logo_256": "",
+            "logo_1024": "",
+            "logo_svg": ""
+        },
+        "media": {
+            "steemit": "",
+            "twitter": "https://twitter.com/TranscranialSol/",
+            "youtube": "",
+            "facebook": "",
+            "github": "https://github.com/Transcranial-Solutions",
+            "reddit": "",
+            "keybase": "",
+            "telegram": "",
+            "wechat": ""
+        }
+    },
+    "server": {
+        "location": {
+            "country": "Sweden",
+            "city": "Karlshamn"
+        },
+        "server_type": "",
+        "api_endpoint": "31.208.165.65:9000"
+    }
+}
